@@ -1,0 +1,2 @@
+SELECT * FROM bronze_bookings
+WHERE NIGHTS_BOOKED > 1
